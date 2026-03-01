@@ -1,0 +1,4 @@
+name;id;value;min;max;dataType;text;unit;modbusResult;userLevel;type;nciphers
+entry1;1;100;0;200;int;Sample Text;unit1;result1;level1;type1;2
+entry2;2;150;50;300;float;Another Sample;unit2;result2;level2;type2;3
+entry3;3;200;100;400;string;Some Text;unit3;result3;level3;type3;1
