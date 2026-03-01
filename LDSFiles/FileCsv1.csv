@@ -1,0 +1,1 @@
+section,name,id,value,min,max,dataType,text,unit,modbusResult,userLevel,type,nciphers\nSWVersion,Version1,1,1.0,0,10,String,Software Version,,0,Admin,Normal,0\nGeneralData,Data1,2,100,0,100,Int,General Data,,0,Admin,Normal,1
