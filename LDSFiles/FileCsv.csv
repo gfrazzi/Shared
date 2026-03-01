@@ -1,0 +1,1 @@
+name,id,value,min,max,dataType,text,unit,modbusResult,userLevel,type,nciphers\nEntry1,1,10,0,100,int,Sample Text,units,success,1,type1,2\nEntry2,2,20,0,200,string,Another Text,units,success,1,type2,3\nEntry3,3,30,0,300,float,More Text,units,success,2,type3,1\n
