@@ -1,0 +1,4 @@
+name;id;value;min;max;dataType;text;unit;modbusResult;userLevel;type;nciphers
+entry1;1;100;0;200;int;Temperature;0;1;Sensor;5
+entry2;2;150;50;300;int;Pressure;1;1;Sensor;5
+entry3;3;75;0;100;int;Flow;0;2;Sensor;5
